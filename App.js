@@ -5,8 +5,16 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
+      <text>ạdhádjlfjl</text>
+      <text>ạdhádjlfjl</text>
+      <text>ạdhádjlfjl</text>
       <Text>123</Text>
       <StatusBar style="auto" />
+      <text>ạdhádjlfjl</text>
+      <text>ạdhádjlfjl</text>
+      <text>ạdhádjlfjl</text>
+      <text>ạdhádjlfjl</text>
+
     </View>
   );
 }
@@ -14,11 +22,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-
     backgroundColor: "#fff",
-
     alignItems: "center",
-
     justifyContent: "center",
   },
 });
