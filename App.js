@@ -8,11 +8,13 @@ export default function App() {
       <text>ạdhádjlfjl</text>
       <text>ạdhádjlfjl</text>
       <text>ạdhádjlfjl</text>
+      <Text>123</Text>
       <StatusBar style="auto" />
       <text>ạdhádjlfjl</text>
       <text>ạdhádjlfjl</text>
       <text>ạdhádjlfjl</text>
       <text>ạdhádjlfjl</text>
+
     </View>
   );
 }
